@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victor-Alarcon1
 - 👀 I’m interested in learning IA
-- 🌱 I’m currently learning as a Solutions Architect  
+- 🌱 I’m currently working as a Solutions Architect  
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me: victor.alarcon1r@gmail.com
 - 😄 Pronouns: He
